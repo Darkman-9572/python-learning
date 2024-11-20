@@ -1,0 +1,6 @@
+a=int(input("enter number"))
+o=oct(a)
+h=hex(a)
+print(o[2:])
+print(h[2:])
+print(type(o))

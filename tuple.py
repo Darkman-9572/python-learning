@@ -1,0 +1,7 @@
+a=input("value1")
+b=input("value2")
+c=input("value3")
+d=input("value4")
+e=input("value5")
+mytuple=(a,b,c,d,e)
+print(mytuple)
